@@ -1,6 +1,6 @@
-# MDL Improved
+# MDL Extra
 
-**MDL Improved** is a userscript that enhances [MyDramaList](https://mydramalist.com) by adding inline +/– buttons for episodes. It works only on your own profile.
+**MDL Extra** is a userscript that enhances [MyDramaList](https://mydramalist.com) by adding inline +/– buttons for episodes. It works only on your own profile.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## Screenshot
 
-![Screenshot of MDL Improved](https://raw.githubusercontent.com/yaruer/mdl-improved/7656fbf/buttons.png)
+![Screenshot of MDL Extra](https://raw.githubusercontent.com/yaruer/mdl-improved/7656fbf/buttons.png)
 
 ---
 
