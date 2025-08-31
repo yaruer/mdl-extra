@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         MDL Improved
-// @namespace    https://github.com/yaruer/mdl-improved
-// @version      1.0
-// @description  Inline + / – buttons next to "Currently watching", styled for MDL dark/light mode, auto-close modal, only works on your profile
+// @name         MDL Extra
+// @namespace    https://github.com/yaruer/mdl-extra
+// @version      1.0.1
+// @description  Adds extra functions to MyDramaList: quick +/– episode buttons, theme-aware, auto-close modals, profile-only.
 // @author       yaruer
 // @match        https://mydramalist.com/profile/*
-// @updateURL    https://raw.githubusercontent.com/yaruer/mdl-improved/main/mdl-improved.user.js
-// @downloadURL  https://raw.githubusercontent.com/yaruer/mdl-improved/main/mdl-improved.user.js
+// @updateURL    https://raw.githubusercontent.com/yaruer/mdl-extra/main/mdl-extra.user.js
+// @downloadURL  https://raw.githubusercontent.com/yaruer/mdl-extra/main/mdl-extra.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
