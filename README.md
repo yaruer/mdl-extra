@@ -7,7 +7,7 @@
 ## Features
 
 - Quick **+ / – buttons** next to "Currently watching" on your profile.
-- Matches **MDL dark/light themes** automatically. (Might be broken)
+- Matches **MDL dark/light themes** automatically. **(Might be broken)**
 - Set your **username** to configure the script, so it only works on your own profile.
 
 ---
@@ -42,4 +42,4 @@ This userscript is released under the [MIT License](LICENSE).
 
 ## Contributing
 
-Feel free to submit **issues or pull requests** on GitHub to improve the script!
+Feel free to submit **issues or pull requests** on GitHub to improve the script.
