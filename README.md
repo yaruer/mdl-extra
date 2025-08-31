@@ -30,7 +30,7 @@
 
 ## Screenshot
 
-![Screenshot of MDL Improved](https://github.com/yaruer/mdl-improved/blob/main/buttons.png?raw=true)
+![Screenshot of MDL Improved](https://raw.githubusercontent.com/yaruer/mdl-improved/7656fbf/buttons.png)
 
 ---
 
