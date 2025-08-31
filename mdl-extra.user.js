@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         MDL Extra
 // @namespace    https://github.com/yaruer/mdl-extra
-// @version      1.0.1
+// @version      1.0.2
 // @description  Adds extra functions to MyDramaList: quick +/– episode buttons, theme-aware, auto-close modals, profile-only.
 // @author       yaruer
+// @icon         https://github.com/yaruer/mdl-extra/blob/main/icon.png?raw=true
 // @match        https://mydramalist.com/profile/*
 // @updateURL    https://raw.githubusercontent.com/yaruer/mdl-extra/main/mdl-extra.user.js
 // @downloadURL  https://raw.githubusercontent.com/yaruer/mdl-extra/main/mdl-extra.user.js
