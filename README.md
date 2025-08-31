@@ -36,7 +36,7 @@
 
 ## License
 
-This userscript is released under the [MIT License](LICENSE).
+This userscript is released under the [GNU General Public License v3.0 (GPL-3.0-or-later)](https://github.com/yaruer/mdl-improved/blob/main/LICENSE).
 
 ---
 
