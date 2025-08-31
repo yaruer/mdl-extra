@@ -16,7 +16,7 @@
 
 1. Install [Violentmonkey](https://violentmonkey.github.io/) in your browser if you haven’t already.
 2. Go to the raw script URL and click **Install**:  
-   [https://raw.githubusercontent.com/yaruer/mdl-improved/main/mdl-improved.user.js](https://raw.githubusercontent.com/yaruer/mdl-improved/main/mdl-improved.user.js)
+   [https://raw.githubusercontent.com/yaruer/mdl-extra/main/mdl-extra.user.js](https://raw.githubusercontent.com/yaruer/mdl-extra/main/mdl-extra.user.js)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## Screenshot
 
-![Screenshot of MDL Extra](https://raw.githubusercontent.com/yaruer/mdl-improved/7656fbf/buttons.png)
+![Screenshot of MDL Extra](https://raw.githubusercontent.com/yaruer/mdl-extra/main/buttons.png)
 
 ---
 
