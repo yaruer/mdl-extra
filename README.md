@@ -30,7 +30,8 @@
 
 ## Screenshot
 
-![Screenshot of MDL Extra](https://raw.githubusercontent.com/yaruer/mdl-extra/main/buttons.png)
+![Screenshot of MDL Extra](https://raw.githubusercontent.com/yaruer/mdl-extra/main/images/buttons.png)(https://github.com/yaruer/mdl-extra/blob/main/images/settings.png?raw=true&v=2)(https://github.com/yaruer/mdl-extra/blob/main/images/floating%20search.png?raw=true)
+
 
 ---
 
